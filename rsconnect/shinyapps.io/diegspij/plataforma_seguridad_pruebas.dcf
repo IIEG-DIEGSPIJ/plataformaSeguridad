@@ -1,0 +1,12 @@
+name: plataforma_seguridad_pruebas
+title: plataforma_seguridad_pruebas
+username:
+account: diegspij
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3332676
+bundleId: 3929823
+url: https://diegspij.shinyapps.io/plataforma_seguridad_pruebas/
+when: 1606860589.9681
+asMultiple: FALSE
+asStatic: FALSE

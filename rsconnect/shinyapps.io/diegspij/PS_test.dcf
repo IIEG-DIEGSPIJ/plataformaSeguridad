@@ -1,0 +1,12 @@
+name: PS_test
+title: PS_test
+username:
+account: diegspij
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3404511
+bundleId: 3997617
+url: https://diegspij.shinyapps.io/PS_test/
+when: 1608136743.23766
+asMultiple: FALSE
+asStatic: FALSE

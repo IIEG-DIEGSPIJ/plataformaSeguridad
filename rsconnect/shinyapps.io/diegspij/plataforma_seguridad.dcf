@@ -1,0 +1,14 @@
+name: plataforma_seguridad
+title: plataforma_seguridad
+username:
+account: diegspij
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3098298
+bundleId: 4838809
+url: https://diegspij.shinyapps.io/plataforma_seguridad/
+when: 1626807091.42045
+lastSyncTime: 1626807091.42045
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data/respaldo.rds
